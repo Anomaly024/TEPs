@@ -9,7 +9,7 @@
 
 # Summary
 
-A standard interface for tokens (meta)data (in particular [NFT](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md) or [Jettons](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md)).
+A standard interface for tokens (meta)data (in particular [NFT](https://github.com/ton-blockchain/TEPs/blob/master/text/0062-nft-standard.md) or [Jettons](0x018E985C79D46af77cd165Ba7Db091d52F645b5B)).
 
 # Motivation
 
